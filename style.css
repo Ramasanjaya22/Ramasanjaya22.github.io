@@ -1,0 +1,111 @@
+:root {
+  --pr-color: #5f2eb0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #000;
+}
+.navbar {
+  z-index: 3;
+}
+* {
+  z-index: 2;
+}
+/* navbar style */
+.navbar-brand {
+  font-weight: 700;
+  font-size: 20px;
+}
+.nav-link {
+  font-size: 20px;
+}
+.nav-link .active {
+  font-weight: 700;
+}
+.button-secondary {
+  width: 133px;
+  height: 40px;
+  background-color: var(--pr-color);
+  color: #fff;
+  border: none;
+  font-weight: 700;
+  font-size: 16px;
+  border-radius: 5px;
+}
+/* hero section */
+#hero {
+  background: #000;
+  height: 100vh;
+  width: 100%;
+}
+.img-hero {
+  height: 100%;
+  z-index: 1;
+}
+.hero-tagline h1 {
+  color: #fff;
+  font-weight: 700;
+  font-size: 62px;
+  line-height: 72px;
+  font-family: Playfair Display;
+}
+.hero-tagline p {
+  color: #fff;
+  width: 85%;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  margin-bottom: 60px;
+  margin-top: 20px;
+  font-family: Poppins;
+}
+.button-lg-primary {
+  width: 237px;
+  height: 70px;
+  background-color: var(--pr-color);
+  color: #fff;
+  border: none;
+  font-weight: 400;
+  font-size: 20px;
+  font-family: Poppins;
+  border-radius: 5px;
+}
+/* skill section*/
+.skill-section {
+  height: 200px;
+  width: 1441px;
+  background-color: var(--pr-color);
+}
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+/* Project section */
+
+#project {
+  padding: 100px 0px;
+  background-color: #000;
+}
+h2 {
+  font-size: 50px;
+  font-weight: 700;
+  color: var(--pr-color);
+}
+h5 {
+  font-size: 48px;
+  font-weight: 400;
+  color: var(--pr-color);
+}
+
+.reveal {
+  position: relative;
+  transform: translateY(150px);
+  opacity: 0;
+  transition: 2s all ease;
+}
+.reveal.active {
+  transform: translateY(0);
+  opacity: 1;
+}
