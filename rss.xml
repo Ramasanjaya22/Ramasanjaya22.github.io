@@ -5,7 +5,7 @@
 <link>https://ramasanjaya22.github.io/blog</link>
 <description>Notes from building software in Bandung.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://ramasanjaya22.github.io/rss.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Matching 1,170 exporters against 71,349 evidence rows</title>
@@ -13,6 +13,13 @@
 <guid isPermaLink="true">https://ramasanjaya22.github.io/blog/matching-1170-exporters</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
 <description>Every claim in BYRIS points at one of 71,349 evidence rows across 1,170 exporters. Keeping that provenance attached was the hard part</description>
+</item>
+<item>
+<title>Learning notebook: Obsidian, blog RSS, and auto-translate</title>
+<link>https://ramasanjaya22.github.io/blog/learning-notebook</link>
+<guid isPermaLink="true">https://ramasanjaya22.github.io/blog/learning-notebook</guid>
+<pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+<description>Notes from setting up Obsidian, publishing the blog RSS feed, and translating Mandarin content into Indonesian — the notebook belajar for 4 November 2026.</description>
 </item>
 </channel>
 </rss>
