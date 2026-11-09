@@ -1,13 +1,13 @@
 # Rama Sanjaya
 
-> Product engineer in Bandung, Indonesia. Builds data-heavy and AI-driven products end to end: the data pipeline, the matching logic, and the interface.
+> Product engineer in Bandung & Jakarta, Indonesia. Builds data-heavy and AI-driven products end to end: the data pipeline, the matching logic, and the interface.
 
-Rama Sanjaya is a product engineer based in Bandung, West Java, Indonesia (GMT+7). He builds products end to end — Python collection pipelines, PostgreSQL lineage, Go matching engines, and SvelteKit interfaces — and is open to remote roles in Singapore, Malaysia and Australia.
+Rama Sanjaya is a product engineer based in Bandung & Jakarta, Indonesia (GMT+7). He builds products end to end — Python collection pipelines, PostgreSQL lineage, Go matching engines, and SvelteKit interfaces — and is open to remote roles in Singapore, Malaysia and Australia.
 
 ## Key facts
 - Name: Rama Sanjaya
 - Role: Product engineer (applied AI)
-- Location: Bandung, West Java, Indonesia (GMT+7)
+- Location: Bandung & Jakarta, Indonesia (GMT+7)
 - Current work: BYRIS, a census of 1,170 Indonesian exporters scored against 71,349 evidence rows
 - Stack: SvelteKit, TypeScript, Go, PostgreSQL, Python
 - Availability: remote roles in Singapore, Malaysia and Australia; contract work
@@ -21,6 +21,7 @@ Rama Sanjaya is a product engineer based in Bandung, West Java, Indonesia (GMT+7
 - [BYRIS case study](https://ramasanjaya22.github.io/work/byris): 1,170 exporters, 71,349 evidence rows, PostgreSQL lineage and a Go matcher.
 - [NusaSportJourney case study](https://ramasanjaya22.github.io/work/nusa): A sport-tourism event platform with a self-hosted Strapi CMS.
 - [BAKARA case study](https://ramasanjaya22.github.io/work/bakara): A batik kiosk with 18 motifs, a phone scanner and a live try-on screen.
+- [MiroFish-Offline case study](https://ramasanjaya22.github.io/work/mirofish): A fully local fork of MiroFish I run daily — Neo4j graph, a local 9B model, and the fixes that keep it alive.
 - [Writing](https://ramasanjaya22.github.io/blog): Notes from building software.
 
 ## Writing
