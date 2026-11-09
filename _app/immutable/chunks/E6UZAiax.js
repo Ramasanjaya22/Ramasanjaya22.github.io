@@ -1,4 +1,4 @@
-import{a as t,f as n}from"./aY8SwVTW.js";import"./CmqquvYX.js";import{C as i}from"./B94tRa5z.js";var s=n(`<p class="lead svelte-9opk9z">In BYRIS an opportunity is a company that might buy from one specific Indonesian exporter. Any matcher can put a
+import{a as t,f as n}from"./1g43SLC9.js";import"./B8YzeW8_.js";import{C as i}from"./zi9jb3lN.js";var s=n(`<p class="lead svelte-9opk9z">In BYRIS an opportunity is a company that might buy from one specific Indonesian exporter. Any matcher can put a
 	number on that pair. A number nobody can argue with is useless at a sales desk, because someone has to pick up the
 	phone on the strength of it.</p> <h2 class="svelte-9opk9z">The claim is the easy part</h2> <p class="svelte-9opk9z">So every claim points at a row. A claim is a statement about a buyer, and it is allowed to exist only when collected
 	evidence backs it. Right now that is 71,349 rows across 1,170 exporters. When a number looks wrong you do not re-run
