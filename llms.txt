@@ -27,6 +27,7 @@ Rama Sanjaya is a product engineer based in Bandung & Jakarta, Indonesia (GMT+7)
 ## Writing
 - [Matching 1,170 exporters against 71,349 evidence rows](https://ramasanjaya22.github.io/blog/matching-1170-exporters): The score was never the hard part. Deciding what counts as evidence was.
 - [Catatan belajar: Obsidian, RSS, dan terjemahan otomatis](https://ramasanjaya22.github.io/blog/learning-notebook): Obsidian buat catatan, feed RSS buat blog ini, dan terjemahan Mandarin ke Indonesia — catatan belajar, bukan tutorial.
+- [The student deck: eight concept projects, 2021–2024](https://ramasanjaya22.github.io/blog/student-portfolio-2021-2024): The old portfolio deck, slide by slide — AR shopping, AI reading tools, and the pitches that became client work.
 
 ## Files
 - [CV (PDF)](https://ramasanjaya22.github.io/cv-rama-sanjaya.pdf)
