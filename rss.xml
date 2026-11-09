@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Rama Sanjaya — writing</title>
-<link>https://ramasanjaya22.github.io/blog</link>
+<link>https://ramasanjaya.vercel.app/blog</link>
 <description>Notes from building software in Bandung & Jakarta.</description>
 <language>en</language>
 <lastBuildDate>Mon, 09 Nov 2026 00:00:00 GMT</lastBuildDate>
-<atom:link href="https://ramasanjaya22.github.io/rss.xml" rel="self" type="application/rss+xml" />
+<atom:link href="https://ramasanjaya.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Matching 1,170 exporters against 71,349 evidence rows</title>
-<link>https://ramasanjaya22.github.io/blog/matching-1170-exporters</link>
-<guid isPermaLink="true">https://ramasanjaya22.github.io/blog/matching-1170-exporters</guid>
+<link>https://ramasanjaya.vercel.app/blog/matching-1170-exporters</link>
+<guid isPermaLink="true">https://ramasanjaya.vercel.app/blog/matching-1170-exporters</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
 <description>Every claim in BYRIS points at one of 71,349 evidence rows across 1,170 exporters. Keeping that provenance attached was the hard part</description>
 </item>
 <item>
 <title>Catatan belajar: Obsidian, RSS, dan terjemahan otomatis</title>
-<link>https://ramasanjaya22.github.io/blog/learning-notebook</link>
-<guid isPermaLink="true">https://ramasanjaya22.github.io/blog/learning-notebook</guid>
+<link>https://ramasanjaya.vercel.app/blog/learning-notebook</link>
+<guid isPermaLink="true">https://ramasanjaya.vercel.app/blog/learning-notebook</guid>
 <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
 <description>Apa yang saya pasang dan coba sendiri baru-baru ini: Obsidian, feed RSS di /rss.xml, dan terjemahan otomatis dari Mandarin ke Indonesia (sumber: airss.qiaomu.ai). Notebook belajar, 4 November 2026.</description>
 </item>
 <item>
 <title>The student deck: eight concept projects, 2021–2024</title>
-<link>https://ramasanjaya22.github.io/blog/student-portfolio-2021-2024</link>
-<guid isPermaLink="true">https://ramasanjaya22.github.io/blog/student-portfolio-2021-2024</guid>
+<link>https://ramasanjaya.vercel.app/blog/student-portfolio-2021-2024</link>
+<guid isPermaLink="true">https://ramasanjaya.vercel.app/blog/student-portfolio-2021-2024</guid>
 <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
 <description>Eight concept projects from my student years at Telkom University, published as the original deck slides: AnyBuy, Bacain AI, MahirTalk AI, Pertamina Hulu Rokan, Kerry Group, Stay Young Mirror, Patrol AR and Netralens.</description>
 </item>

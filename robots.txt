@@ -67,4 +67,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://ramasanjaya22.github.io/sitemap.xml
+Sitemap: https://ramasanjaya.vercel.app/sitemap.xml

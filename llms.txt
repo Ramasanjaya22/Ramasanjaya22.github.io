@@ -16,20 +16,20 @@ Rama Sanjaya is a product engineer based in Bandung & Jakarta, Indonesia (GMT+7)
 - GitHub: https://github.com/Ramasanjaya22
 
 ## Pages
-- [Home](https://ramasanjaya22.github.io/): Portfolio — selected work, background and contact.
-- [About](https://ramasanjaya22.github.io/about): Full profile, skills, availability and frequently asked questions.
-- [BYRIS case study](https://ramasanjaya22.github.io/work/byris): 1,170 exporters, 71,349 evidence rows, PostgreSQL lineage and a Go matcher.
-- [NusaSportJourney case study](https://ramasanjaya22.github.io/work/nusa): A sport-tourism event platform with a self-hosted Strapi CMS.
-- [BAKARA case study](https://ramasanjaya22.github.io/work/bakara): A batik kiosk with 18 motifs, a phone scanner and a live try-on screen.
-- [MiroFish-Offline case study](https://ramasanjaya22.github.io/work/mirofish): A fully local fork of MiroFish I run daily — Neo4j graph, a local 9B model, and the fixes that keep it alive.
-- [Writing](https://ramasanjaya22.github.io/blog): Notes from building software.
+- [Home](https://ramasanjaya.vercel.app/): Portfolio — selected work, background and contact.
+- [About](https://ramasanjaya.vercel.app/about): Full profile, skills, availability and frequently asked questions.
+- [BYRIS case study](https://ramasanjaya.vercel.app/work/byris): 1,170 exporters, 71,349 evidence rows, PostgreSQL lineage and a Go matcher.
+- [NusaSportJourney case study](https://ramasanjaya.vercel.app/work/nusa): A sport-tourism event platform with a self-hosted Strapi CMS.
+- [BAKARA case study](https://ramasanjaya.vercel.app/work/bakara): A batik kiosk with 18 motifs, a phone scanner and a live try-on screen.
+- [MiroFish-Offline case study](https://ramasanjaya.vercel.app/work/mirofish): A fully local fork of MiroFish I run daily — Neo4j graph, a local 9B model, and the fixes that keep it alive.
+- [Writing](https://ramasanjaya.vercel.app/blog): Notes from building software.
 
 ## Writing
-- [Matching 1,170 exporters against 71,349 evidence rows](https://ramasanjaya22.github.io/blog/matching-1170-exporters): The score was never the hard part. Deciding what counts as evidence was.
-- [Catatan belajar: Obsidian, RSS, dan terjemahan otomatis](https://ramasanjaya22.github.io/blog/learning-notebook): Obsidian buat catatan, feed RSS buat blog ini, dan terjemahan Mandarin ke Indonesia — catatan belajar, bukan tutorial.
-- [The student deck: eight concept projects, 2021–2024](https://ramasanjaya22.github.io/blog/student-portfolio-2021-2024): The old portfolio deck, slide by slide — AR shopping, AI reading tools, and the pitches that became client work.
+- [Matching 1,170 exporters against 71,349 evidence rows](https://ramasanjaya.vercel.app/blog/matching-1170-exporters): The score was never the hard part. Deciding what counts as evidence was.
+- [Catatan belajar: Obsidian, RSS, dan terjemahan otomatis](https://ramasanjaya.vercel.app/blog/learning-notebook): Obsidian buat catatan, feed RSS buat blog ini, dan terjemahan Mandarin ke Indonesia — catatan belajar, bukan tutorial.
+- [The student deck: eight concept projects, 2021–2024](https://ramasanjaya.vercel.app/blog/student-portfolio-2021-2024): The old portfolio deck, slide by slide — AR shopping, AI reading tools, and the pitches that became client work.
 
 ## Files
-- [CV (PDF)](https://ramasanjaya22.github.io/cv-rama-sanjaya.pdf)
-- [Sitemap](https://ramasanjaya22.github.io/sitemap.xml)
-- [RSS](https://ramasanjaya22.github.io/rss.xml)
+- [CV (PDF)](https://ramasanjaya.vercel.app/cv-rama-sanjaya.pdf)
+- [Sitemap](https://ramasanjaya.vercel.app/sitemap.xml)
+- [RSS](https://ramasanjaya.vercel.app/rss.xml)
